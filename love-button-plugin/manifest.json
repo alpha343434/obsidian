@@ -1,0 +1,9 @@
+{
+  "id": "love-button-plugin",
+  "name": "Love Button Plugin",
+  "version": "1.0.0",
+  "author": "Zehra",
+  "description": "Shows a lovely message when clicked.",
+  "main": "main.js",
+  "minAppVersion": "0.15.0"
+}
